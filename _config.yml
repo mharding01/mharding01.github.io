@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Matthew Harding"
   avatar           : "profile.png"
-  bio              : ""
+  bio              : "Non empty bio"
   location         : "Pittsburgh, PA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=48jptwQAAAAJ&hl=en"
-  email            : "mhardingr at gmail dot com
+  email            : "mhardingr at gmail dot com"
   uri              :
   bitbucket        :
   codepen          :
