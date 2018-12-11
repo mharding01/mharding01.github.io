@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Matthew Harding"
-  avatar           : "profile.png"
-  bio              : "Non empty bio"
+  avatar           : "profile.jpg"
+  bio              : "CMU M.S. in Computer Engineering (Robotics and Deep Learning). I focus on developing real-time, reliable autonomous systems for everyday life. I also love to write, cook, and backpack around the world."
   location         : "Pittsburgh, PA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=48jptwQAAAAJ&hl=en"
